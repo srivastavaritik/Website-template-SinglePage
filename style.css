@@ -29,6 +29,10 @@ nav {
     padding-bottom: 10px;
 }
 
+nav a:hover {
+    border-bottom: solid;
+}
+
 main {
     text-align: center;
     /* padding-left: 240px;
