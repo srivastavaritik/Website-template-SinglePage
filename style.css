@@ -30,7 +30,8 @@ nav {
 }
 
 nav a:hover {
-    border-bottom: solid;
+    border-bottom: solid black;
+    transition-duration: 1s;
 }
 
 main {
